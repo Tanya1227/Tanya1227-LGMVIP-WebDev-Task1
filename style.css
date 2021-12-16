@@ -74,7 +74,7 @@
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url('../bg1.png');
+    background: rgba(0, 0, 0, 0.7) url(bg1.png);
     background-size: cover;
     
 
@@ -254,7 +254,7 @@ margin:auto;
     color: black;
     margin: 0px;
     font-size: 20px;
-    background: url(../bg1.png);
+    background: url(bg1.png);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -263,7 +263,7 @@ margin:auto;
     justify-content: center;
     display: flex;
     margin-top: 80px;
-    background: url(../yo.png);
+    background: url(yo.png);
 
 }
 .heading{
